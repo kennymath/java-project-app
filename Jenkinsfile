@@ -13,7 +13,7 @@ pipeline{
                 script{
 
                     gitCheckout(
-                        branch: "main"
+                        branch: "main",
                         url: "https://github.com/kennymath/java-project-app.git"
                     )
                 }
