@@ -9,7 +9,8 @@ pipeline{
             steps{
 
                 script{
-                      gitCheckout branch: "main", url: "https://github.com/kennymath/java-project-app.git"
+
+                    git branch: 'main', url: 'https://github.com/kennymath/java-project-app.git'
                 }
             }
         }
