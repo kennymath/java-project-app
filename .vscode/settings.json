@@ -9,7 +9,7 @@
     "jenkins-runner.hostConfigs": {
         "jenkins-master": {
             "url": "http://44.214.220.110:8080",
-            "user": "kennyman",
+            "user": "devops",
             "password": "password",
             "useCrumbIssuer": true,
         }
