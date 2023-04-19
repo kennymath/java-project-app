@@ -55,7 +55,8 @@ pipeline{
                    statiCodeAnalysis(SonarQubecredentialsId)
                 }
             }
-        }       
+        }
+               
 
     }
 
